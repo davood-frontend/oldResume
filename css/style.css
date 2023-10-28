@@ -1,0 +1,85 @@
+@media(min-width : 0px){
+    .rounded-lg-2 {
+        border-radius: 0px ;
+    }
+}
+@media(min-width : 992px){
+    .rounded-lg-2 {
+        border-radius: 5px ;
+    }
+}
+
+.main-header{
+height: 60px;
+font-size: 20px;
+}
+.profile-img{
+    height: 290px;
+    width: 230px;
+}
+.costum-width{
+    width: 280px !important;
+}
+.burger-menu{
+    width: 276px;
+    top: 50px;
+}
+.small-font{
+    font-size: 85% !important;
+}
+.w-65{
+    width: 65%;
+}
+.costum-padding{
+    width: 30px !important;
+    height: 30px !important;
+}
+.download-font-size{
+    font-size: 120%;
+}
+.gradien-background-download{
+    background: rgb(232,27,120);
+    background: linear-gradient(90deg, rgba(232,27,120,1) 0%, rgba(200,24,24,0.4232865021008403) 100%);
+}
+.text-gradient{
+    color: rgb(232,27,120);
+
+}
+.bg-melow-dark{
+    background-color: rgba(39, 72, 182, 0.856) !important;
+}
+.background{
+    background: url(../img/background4.jpeg);
+    background-size: cover;
+
+}
+.text-purple{
+color: rgb(235, 18, 90);
+}
+.text-pink{
+    color: rgb(235, 142, 157);
+}
+.text-bg-blue{
+    background: linear-gradient(90deg, #1b1916, #1b252b);
+    color: white;
+    
+}
+.text-dark-blue{
+    color: #007bff ;
+}
+.text-orange{
+    color: rgb(221, 42, 123);
+}
+.paragraph{
+    font-size: 110%;
+    line-height: 35px;
+}
+.bg-light-dark{
+    background-color: #151616ea;
+}
+.good-rounded{
+    border-radius: 5px;
+}
+.p-2-8{
+    padding: 0.8rem;
+}
